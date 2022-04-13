@@ -1,0 +1,4 @@
+rootProject.name = "ease"
+include ':app'
+include ':system-bar'
+include ':android-version'
